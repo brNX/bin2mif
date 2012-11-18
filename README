@@ -1,0 +1,4 @@
+bin2mif
+
+binary file to Memory Initialization File (.mif) converter
+to use in Altera Quartus II IDE
